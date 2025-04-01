@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Activity Graph
 
-[![Abiodun's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=biodunseyi&theme=tokyo-night&hide_border=true)](https://github.com/biodunseyi)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=biodunseyi&theme=tokyo-night&hide_border=true)](https://github.com/biodunseyi)
 
 ---
 
