@@ -38,7 +38,6 @@
 
 ## ⚡ Fun Fact
 > "I am the hope of my family — and I'm building a future where math and code meet money." 💸🔥
-## Hi there 👋
 
 <!--
 **biodunseyi/biodunseyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
